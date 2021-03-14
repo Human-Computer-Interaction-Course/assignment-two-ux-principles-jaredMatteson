@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+
+#ThievesDesktopView{
+    width: 40%;
+    margin-left: 7%;
+    margin-top: 2%;
+}
+#ThievesTabletView{
+    width: 20%;
+    margin-left: 60%; 
+    margin-top: 5%;
+}
+#ThievesPhoneView{
+    width: 20%;
+}
+#DesktopWireframe{
+    margin-left: 7%;
+    margin-top: 6%;
+}
+
+#Title{
+    text-align: center;
+    font-size: 250%;
+}
